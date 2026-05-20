@@ -1,5 +1,26 @@
 # Breast Cancer Diagnosis Analysis — UC Davis STA 141B Final Project
 
+<!-- BADGES_BEGIN -->
+<p align="center">
+  <img alt="Course" src="https://img.shields.io/badge/Course-STA%20141B-022851?style=flat-square&labelColor=2a323d">
+  <img alt="UC Davis" src="https://img.shields.io/badge/UC%20Davis-Data%20%26%20Web%20Tech-FFBF00?style=flat-square&labelColor=2a323d">
+  <img alt="Term" src="https://img.shields.io/badge/Term-Winter%202022-2a323d?style=flat-square&labelColor=2a323d">
+  <img alt="Team" src="https://img.shields.io/badge/Team-Group%20of%205-1f7a3d?style=flat-square&labelColor=2a323d">
+  <img alt="Status" src="https://img.shields.io/badge/Status-Final-ec5800?style=flat-square&labelColor=2a323d">
+  <img alt="Report" src="https://img.shields.io/badge/Report-PDF-EC2025?style=flat-square&labelColor=2a323d">
+</p>
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3-3776AB?style=flat-square&labelColor=2a323d&logo=python&logoColor=white">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-notebook-F37626?style=flat-square&labelColor=2a323d&logo=jupyter&logoColor=white">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-1.x-F7931E?style=flat-square&labelColor=2a323d&logo=scikitlearn&logoColor=white">
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-2.x-150458?style=flat-square&labelColor=2a323d&logo=pandas&logoColor=white">
+  <img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-3.x-11557C?style=flat-square&labelColor=2a323d&logo=python&logoColor=white">
+  <img alt="seaborn" src="https://img.shields.io/badge/seaborn-0.13-4C72B0?style=flat-square&labelColor=2a323d">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-1.x-013243?style=flat-square&labelColor=2a323d&logo=numpy&logoColor=white">
+</p>
+<!-- BADGES_END -->
+
 A data science project analyzing the **Breast Cancer Wisconsin dataset** to classify tumors as malignant or benign using exploratory data analysis, dimensionality reduction, and multiple machine learning models.
 
 **Course:** STA 141B — Data & Web Technologies (Winter 2022, UC Davis)  
